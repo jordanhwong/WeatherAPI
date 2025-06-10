@@ -39,7 +39,7 @@ limiter = Limiter(
 
 
     
-@app.route('<location>')
+@app.route('/<location>')
 def get_weather(location):
     
     try:
