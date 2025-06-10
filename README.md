@@ -32,10 +32,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/jordanhwong/WeatherAPI">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Task Tracker</h3>
+<h3 align="center">Weather API</h3>
 
   <p align="center">
     As based on <a href="https://roadmap.sh/projects/weather-api-wrapper-service">roadmap.sh</a> specifications
